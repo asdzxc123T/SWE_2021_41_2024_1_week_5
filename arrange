@@ -1,0 +1,4 @@
+#!/bin/bash
+start_alph="$1"
+cd files
+echo $start_alph*
